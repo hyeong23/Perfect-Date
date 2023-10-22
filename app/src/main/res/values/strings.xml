@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">고시촌에서 뭐먹지?</string>
+    <string name="layout1_title">CHOOSE FOOD TYPE</string>
+    <string name="f1">한식</string>
+    <string name="f2">분식</string>
+    <string name="f3">일식</string>
+    <string name="f5">중식</string>
+    <string name="f4">양식</string>
+    <string name="f6">기타</string>
+    <string name="f7">치킨</string>
+    <string name="f8">카페,\n디저트</string>
+    <string name="f9">버거,\n토스트</string>
+    <string name="f10">도시락</string>
+    <string name="f11">퓨전\n음식</string>
+    <string name="f12">피자</string>
+    <string name="title_activity_korean71">Korean71</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
